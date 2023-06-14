@@ -1,9 +1,4 @@
-; 初始场景，以及特效演示
-bgm:none;
-unlockBgm:s_Title.mp3 -name=雲を追いかけて;
-intro:你好|欢迎来到 WebGAL 的世界;
-changeBg:bg.png -next;
-unlockCg:bg.png -name=良夜; // 解锁CG并赋予名称
-changeFigure:stand.png -left -next;
-setAnimation:enter-from-left -target=fig-left -next;
-WebGAL:欢迎使用 WebGAL！这是一款全新的网页端视觉小说引擎。 -v1.wav;
+; 初始场景
+bgm:s_Title.mp3;
+intro:你好|欢迎体验新闻记者的暗访工作;
+changeScene:崔旺松在办公室.txt

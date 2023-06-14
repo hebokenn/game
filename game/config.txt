@@ -1,5 +1,5 @@
-Game_name:欢迎使用WebGAL！;
-Game_key:919dda84ae984;
+Game_name:智障奴工：一个暗访黑砖窑的惊险之旅;
+Game_key:8d6dd5134a3dfa8;
 Package_name:;
 Title_bgm:s_Title.mp3;
 Title_img:WebGAL_New_Enter_Image.png;
