@@ -1,0 +1,6 @@
+intro:崔旺松走到了行李箱寄存处|他看到一个穿着制服的年轻男人正在忙着搬运行李箱;
+changeBg:火车站1_540.jpg -next;
+changeFigure:记者-休闲装_540.png -left -next;
+changeFigure:540_128_腹黑眼镜男.png -right;
+:你从行李员这里得不到关于黑砖窑的信息，你还想和谁交流？;
+choose:乘客:乘客.txt|售票员:售票员.txt|其他人:其他人.txt;

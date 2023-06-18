@@ -1,0 +1,6 @@
+intro:崔旺松走到了候车厅|他看到一个穿着时髦的女孩正在玩手机|他缓缓朝女孩走了过去;
+changeBg:540_河边黄昏许愿灯.jpg -next;
+changeFigure:女-棒球服_540.png -right -next;
+changeFigure:记者-休闲装_540.png -left;
+:好像从这里获取不到有用信息了，你还想和谁交流？;
+choose:行李员:行李员.txt|售票员:售票员.txt|选项:其他人.txt;

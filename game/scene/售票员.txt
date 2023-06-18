@@ -1,0 +1,6 @@
+intro:崔旺松走到了售票窗口|看到了忙碌的售票员|她正在为其他乘客填写信息;
+changeBg:便利店-夜晚开灯_540.jpg -next;
+changeFigure:记者-休闲装_540.png -left -next;
+changeFigure:女高中生_540.png -right;
+:你从女孩这里得不到关于黑砖窑的信息，你还想和谁交流？;
+choose:乘客:乘客.txt|行李员:行李员.txt|其他人:其他人.txt;
