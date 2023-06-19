@@ -1,0 +1,8 @@
+intro:你翻墙过去|却发现外面养着老板养的狗|它看到你，开始疯狂的吼叫起来;
+changeFigure: -next;
+changeBg:皇城墙夜晚_540.jpg -next;
+changeFigure:记者-休闲装_540.png -left -next;
+changeFigure:中年油腻男_540(1).png -right -next;
+老板（追了出来）:你小子往哪儿跑？;
+:你打算怎么做;
+choose:继续跑:继续跑.txt|回头对抗:回头对抗.txt|藏起来:藏起来.txt;

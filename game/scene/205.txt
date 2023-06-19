@@ -1,0 +1,5 @@
+intro:密码正确,电脑打开了;
+changeFigure:记者-休闲装_540.png -next;
+changeBg: 选择背景图片 -next;
+崔旺松:让我看看电脑里面有什么;
+choose:查看文件:查看文件.txt|放弃调查:放弃调查.txt;

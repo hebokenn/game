@@ -1,0 +1,6 @@
+changeBg:王爷府邸：外部大门 夜晚_540.jpg -next;
+changeFigure: -next;
+changeFigure:记者-休闲装_540.png -left -next;
+changeFigure:保安_540(2).png -right -next;
+:大门是从里面锁住的，旁边的保安已经睡着了，你决定......;
+choose:去从保安身上找钥匙，但可能会被发现:突破重围之被发现.txt|翻墙，墙上都是带刺的铁丝网，你可能会受伤:翻墙.txt;

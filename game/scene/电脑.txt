@@ -1,5 +1,7 @@
-changeBg:选择背景图片;
-changeFigure:选择立绘文件;
-intro:崔旺松（惊喜）：哇，我进去了，我进去了。;
-intro:你进入了电脑，你可以选择查看其中的一些文件，或者放弃调查。;
-choose:查看文件:查看文件.txt|放弃调查:放弃调查.txt;
+changeBg:选择背景图片 -next;
+changeFigure:记者-休闲装_540.png -next;
+崔旺松:电脑被上锁了;
+changeBg: 选择背景图片 -next;
+崔旺松:电脑屏幕上面出现了一个windows密码提示;
+崔旺松:"石头剪刀布"这是什么意思呢?密码应该是多少?;
+changeScene:输密码.txt

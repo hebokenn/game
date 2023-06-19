@@ -1,7 +1,7 @@
 intro:崔旺松走到了火车站的另一边|他看到了一个穿着花衬衫的男人正在和一些智障人士交流|他走上前去，拉住了这个人的手;
 changeBg:540_地铁站站台黄昏.jpg -next;
 changeFigure:中年油腻男_540(1).png -right -next;
-changeFigure:记者-休闲装_540.png -left;
+changeFigure:记者-休闲装_540.png -left -next;
 ;
 崔旺松（傻笑）:叔叔，叔叔，你能带我去玩玩吗？你能带我去玩玩吗;
 花衬衫男人（惊喜）:哦，你是谁？你是从哪里来的，你有没有家人？;

@@ -1,1 +1,5 @@
-intro:这是黑砖窑负责人员平时休息的地方。;
+changeBg:员工宿舍晚上_540.jpg -next;
+changeFigure:记者-休闲装_540.png -next;
+:这是黑砖窑负责人员平时休息的地方，没有其他线索。;
+:你还想去哪里调查？;
+choose:砖堆:砖堆.txt|食堂:食堂.txt;

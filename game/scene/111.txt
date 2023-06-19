@@ -1,0 +1,2 @@
+intro:密码错误;
+changeScene:输密码.txt

@@ -1,4 +1,3 @@
-; 初始场景
-bgm:s_Title.mp3;
+bgm:none;
 intro:你好|欢迎体验新闻记者的暗访工作;
 changeScene:崔旺松在办公室.txt

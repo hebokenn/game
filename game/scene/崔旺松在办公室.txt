@@ -1,8 +1,8 @@
 changeBg:办公室 (3)_540.jpg -next;
 changeFigure:记者-休闲装_540.png;
 intro:崔旺松坐在电脑前|正在浏览一些关于黑砖窑的新闻报道;
-changeFigure:;
-changeBg:屏幕截图 2023-02-27 192914.png;
+changeFigure: -next;
+changeBg:屏幕截图 2023-02-27 192914.png -next;
 changeBg:办公室 (3)_540.jpg -next;
 changeFigure:记者-休闲装_540.png -next;
 崔旺松:黑砖窑....这个词已经出现了好多年了

@@ -1,9 +1,9 @@
-changeBg:菜市场-白天_540.jpg;
-changeFigure:记者-休闲装_540.png;
+changeBg:菜市场-白天_540.jpg -next;
+changeFigure:记者-休闲装_540.png -next;
 :你在小吃摊美美的饱餐了一顿，狼吞虎咽的吃相吸引了招募人的注意
 :招募人十分小心谨慎，他从你的吃相中发现你并不像是精神有问题，他害怕你是警方伪装的卧底，于是悄悄离开了
-changeBg:选择背景图片;
+changeBg:选择背景图片 -next;
 changeFigure:none;
-changeBg: 选择背景图片;
+changeBg: 选择背景图片 -next;
 :你的卧底任务失败,是否选择重新开始;
 choose:从头开始游戏:崔旺松在办公室.txt|回到上个选择点:第一次暗访：镇上.txt;

@@ -1,0 +1,10 @@
+intro:崔旺松蹑手蹑脚的走到了保安身边;
+changeBg:王爷府邸：外部大门 夜晚_540.jpg -next;
+changeFigure: -left -next;
+changeFigure:记者-休闲装_540.png -next;
+changeFigure:保安_540(2).png -right -next;
+崔旺松（默默祈祷）:千万别发现我;
+保安:（呼噜声）;
+崔旺松:钥匙就在他的脖子上挂着，我慢慢取下来应该没事;
+:你想怎么拿这个钥匙;
+choose:剪断绳子:被保安发现.txt|从头上退下来绳子:被保安发现.txt;

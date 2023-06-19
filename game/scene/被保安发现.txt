@@ -1,0 +1,12 @@
+changeFigure:记者-休闲装_540.png -next;
+changeFigure:保安_540(2).png -right -next;
+changeBg:王爷府邸：外部大门 夜晚_540.jpg -next;
+:你蹑手蹑脚的拿到了钥匙;
+:把钥匙插了进去;
+崔旺松:怎么......好像打不开？！！;
+intro:崔旺松感觉背后一凉;
+changeFigure: -next;
+changeFigure: -right -next;
+changeFigure:保安_540(1)醒着.png -next;
+保安（哈哈大笑）:其实我没有睡着;
+callScene:死亡结局.txt
