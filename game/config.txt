@@ -1,5 +1,5 @@
 Game_name:智障奴工：一个暗访黑砖窑的惊险之旅;
 Game_key:8d6dd5134a3dfa8;
 Package_name:;
-Title_bgm:6月19日 22点53分.mp3;
-Title_img:伦敦之眼 (1)_540.jpg;
+Title_bgm:钢琴独奏旋律循环_耳聆网_[声音ID：15475].mp3;
+Title_img:18-18-3ea097c9-a403-460a-bd1b-a934cd127a7e0d4344f5-27f8-46aa-bcbb-6d8988b4d751.png;

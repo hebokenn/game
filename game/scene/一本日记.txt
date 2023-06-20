@@ -1,4 +1,4 @@
 intro:这只是一本普通的日记|上面的字迹都看不清楚了;
-changeBg:选择背景图片;
+changeBg:11.png -next;
 :你可以继续查看其他东西;
 choose:一张照片:一张照片.txt|一把钥匙:一把钥匙.txt|一个手机:一个手机.txt;

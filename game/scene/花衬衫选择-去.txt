@@ -1,3 +1,4 @@
+bgm:汽车内声音2_耳聆网_[声音ID：38916].mp3;
 intro:崔旺松被带上了一个面包车|车里还有很多看起来不太聪明的智障人士;
 changeBg:汽车内-白天_540.jpg -next;
 changeFigure:中年油腻男_540(1).png -left -next;
@@ -5,8 +6,9 @@ changeFigure:记者-休闲装_540.png -right -next;
 花衬衫男人(笑):小伙子，你很幸运，等会我要带你去一个很好的地方，你要听话知道吗;
 崔旺松和奴工:明白，明白;
 花衬衫男人:好，奖励你们一人一颗糖;
-:崔旺松给每人都吃了一颗糖;
+:花衬衫男人给每人都吃了一颗糖;
 :不一会吃过糖的人就睡死过去......;
+bgm:none;
 changeFigure: -left -next;
 changeFigure: -right -next;
 changeScene:被招募人带走.txt

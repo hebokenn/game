@@ -1,4 +1,4 @@
-changeBg:王爷府邸：外部大门 夜晚_540.jpg -next;
+changeBg:njkafgfuiqehfioqaw.jpg -next;
 changeFigure: -next;
 changeFigure:记者-休闲装_540.png -left -next;
 changeFigure:保安_540(2).png -right -next;

@@ -1,7 +1,7 @@
-changeBg:选择背景图片 -next;
+changeBg:00014-1080849013-masterpiece, best quality,computer,table,Table a PC，day，.png -next;
 changeFigure:记者-休闲装_540.png -next;
 崔旺松:电脑被上锁了;
-changeBg: 选择背景图片 -next;
-崔旺松:电脑屏幕上面出现了一个windows密码提示;
+changeBg:dn.jpg -next;
+崔旺松:电脑屏幕上面出现了一个windows密码提示 -短提示音_耳聆网_[声音ID：22191].wav;
 崔旺松:"石头剪刀布"这是什么意思呢?密码应该是多少?;
 changeScene:输密码.txt

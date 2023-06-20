@@ -1,7 +1,9 @@
 changeBg:城市工地_540.jpg -next;
 changeFigure:记者-休闲装_540.png -next;
+bgm:建筑工地的噪音_耳聆网_[声音ID：20407] (V0).mp3;
 崔旺松（惊讶）:哇，这是？;
 :你发现一个隐藏的洞，里面有一些线索。;
-changeBg:郊外-山洞_540.jpg -next;
+bgm:选择背景音乐;
+changeBg:none -next;
 :你想查看什么？;
 choose:一张照片:一张照片.txt|一本日记:一本日记.txt|一把钥匙:一把钥匙.txt|一个手机:一个手机.txt;

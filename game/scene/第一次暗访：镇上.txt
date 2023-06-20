@@ -1,4 +1,5 @@
 intro:第一章：第一次暗访;
+bgm:街道_耳聆网_[声音ID：33958].mp3;
 intro:崔旺松来到了镇上|他打算先找到一些关于黑砖窑的线索|然后再想办法接近他们;
 changeFigure:记者-休闲装_540.png -next;
 changeBg:小镇小巷 (1)_540.jpg -next;

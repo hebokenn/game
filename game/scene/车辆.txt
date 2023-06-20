@@ -1,4 +1,4 @@
 intro:这只是普通的出行工具。|没有什么线索;
-changeBg:选择背景图片;
+changeBg:kckc.jpg -next;
 :你还想去什么地方;
 choose:砖堆:砖堆.txt|工具:工具.txt;

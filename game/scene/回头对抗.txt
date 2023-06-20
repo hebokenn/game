@@ -1,4 +1,5 @@
 changeBg: 选择背景图片 -next;
+bgm:打架_耳聆网_[声音ID：36277].mp3;
 intro:崔旺松被追上来的老板和保安打死|他像这里大多数不听话的奴工一样|永远的倒在了这里;
 changeFigure: -left -next;
 changeFigure: -right -next;
